@@ -1,3 +1,6 @@
 # iPython checkpoint directories
 .ipynb_checkpoints/
 
+# Local copies of downloaded data files
+.local_data/
+
