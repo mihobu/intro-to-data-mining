@@ -4,3 +4,5 @@
 # Local copies of downloaded data files
 .local_data/
 
+# Notebooks that are still works in progress
+WIP*.ipynb
